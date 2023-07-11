@@ -1,0 +1,1 @@
+FROM ramonvc/freegpt-webui
